@@ -1,0 +1,2 @@
+import AnthropologyRitualSymbolismCanonicalLaneLean.GateLemmas
+import AnthropologyRitualSymbolismCanonicalLaneLean.FinalTheorem
